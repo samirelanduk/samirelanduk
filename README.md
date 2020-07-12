@@ -26,6 +26,6 @@ Bioinformatics
 
 Twitter - same username.
 
-### Why so many stars?
+### Why so many commits?
 
 Coding is my main hobby as well as my occupation, and I've been fortunate enough that the projects I work on are all hosted on GitHub. No they aren't a reliable indicator of proficiency. I just like having them.
