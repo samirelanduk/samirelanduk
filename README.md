@@ -4,7 +4,8 @@ I'm a developer and PhD Student based in London. I write a lot of code. [I also 
 
 I am currently working as a software contractor, mostly in the bioinformatics/biotech area. If you think my skillset would match a problem you have, it would be great to hear from you.
 
-[![samirelanduk's github stats](https://github-readme-stats.vercel.app/api?username=samirelanduk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/samirelanduk/jstrieb-github-stats/master/generated/overview.svg)
+![](https://github.com/samirelanduk/jstrieb-github-stats/blob/master/generated/languages.svg)
 
 ## Currently Working On
 
