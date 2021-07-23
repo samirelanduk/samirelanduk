@@ -1,17 +1,15 @@
 # Sam Ireland
 
-I'm a developer and PhD Student based in London. I write a lot of code. [I also write](https://samireland.com/writing/) and [do research](https://samireland.com/research/).
-
-I am currently working as a software contractor, mostly in the bioinformatics/biotech area. If you think my skillset would match a problem you have, it would be great to hear from you.
+I'm a developer, consultant, and UCL PhD based in London. I write a lot of code. [I also write](https://samireland.com/writing/) and [do research](https://samireland.com/research/).
 
 ![](https://raw.githubusercontent.com/samirelanduk/jstrieb-github-stats/master/generated/overview.svg)
 ![](https://github.com/samirelanduk/jstrieb-github-stats/blob/master/generated/languages.svg)
 
 ## Currently Working On
 
-[My PhD](https://zincbind.net/) - creating machine learning models which predict zinc binding in proteins, and the modern web frontend for accessing them.
+[Deep Mountain](https://zincbind.net/) - software contracting, mostly in the bioinformatics/biotech area. If you think my skillset would match a problem you have, it would be great to hear from you.
 
-[Goodwright](https://goodwright.org/) - a web dev startup I run with a friend.
+[Goodwright](https://goodwright.com/) - a web dev startup I run with a friend. We make software for scientists, such as [iMaps](https://imaps.goodwright.com), [LabTab](https://labtab.io) and more.
 
 [Lytiko](https://lytiko.com/) - a personal analytics platform.
 
@@ -27,6 +25,8 @@ GraphQL
 
 Bioinformatics
 
+Machine Learning
+
 ## How to reach me?
 
-Twitter - same username.
+Twitter or Linkedin - same username as here for both.
