@@ -1,6 +1,6 @@
 # Sam Ireland
 
-I'm a developer, consultant, and UCL PhD based in London. I write a lot of code. [I also write](https://samireland.com/writing/) occasionally.
+I'm a developer, consultant, and PhD based in London. I write a lot of code and, occasionally, [articles](https://samireland.com/writing/).
 
 ![](https://raw.githubusercontent.com/samirelanduk/jstrieb-github-stats/master/generated/overview.svg)
 
@@ -14,6 +14,6 @@ I'm a developer, consultant, and UCL PhD based in London. I write a lot of code.
 
 [Other Projects](https://samireland.com/projects/).
 
-## How to reach me?
+## How to reach me
 
-Twitter or Linkedin - same username as here for both.
+Twitter or LinkedIn - same username as here for both.
