@@ -1,19 +1,25 @@
-# Sam Ireland
+I like creating software. I write primarily in Python and Javascript. Here are some of the tools I'm currently working on:
 
-I'm a developer, consultant, and PhD based in London. I write a lot of code and, occasionally, [articles](https://samireland.com/writing/).
+- **[Flow](https://app.flow.bio)**: A web platform for analysing and cataloging genomics data.
+- **[atomium](https://github.com/samirelanduk/atomium)**: The python PDB parser.
+- **[nextflow.py](https://github.com/goodwright/nextflow.py)**: A python interface to Nextflow pipelines.
+- **[Lytiko](https://lytiko.com)**: A web platform for tracking any time series.
 
-![](https://raw.githubusercontent.com/samirelanduk/jstrieb-github-stats/master/generated/overview.svg)
+Older stuff:
 
-## Currently Working On
+- **[reddit-save](https://github.com/samirelanduk/reddit-save)**: A tool for backing up your saved reddit content locally.
+- **[ZincBind](https://zincbind.net)**: A database of zinc binding sites, with web interface and ML tools.
+- **[pdbsearch](https://github.com/samirelanduk/pdbsearch)**: A Python wrapper around the RCSB PDB API.
+- **[molstar-react](https://github.com/samirelanduk/molstar-react)**: A react component for the Molstar 3D macromolecule viewer.
 
-[Deep Mountain](https://deepmountainsoftware.com/) - software contracting, mostly in the bioinformatics/biotech area.
+Find out more:
 
-[Flow](https://flow.bio/) - a startup I founded with a friend.
+- **[samireland.com](https://samireland.com)**
+- **[goodwright.com](https://goodwright.com)**
+- **[lytiko.com](https://lytiko.com)**
+- **[deepmountainsoftware.com](https://deepmountainsoftware.com)**
 
-[Lytiko](https://lytiko.com/) - a personal analytics platform.
-
-[Other Projects](https://samireland.com/projects/).
-
-## How to reach me
-
-Twitter or LinkedIn - same username as here for both.
+Contact me:
+- **[Twitter](https://twitter/samirelanduk/)**
+- **[Bluesky](https://bsky.app/profile/samireland.com)**
+- **[Linkedin](https://linkedin.com/in/samirelanduk/)**
