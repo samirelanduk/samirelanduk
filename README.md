@@ -14,10 +14,9 @@ Older stuff:
 
 Find out more:
 
-- **[samireland.com](https://samireland.com)**
-- **[goodwright.com](https://goodwright.com)**
-- **[lytiko.com](https://lytiko.com)**
-- **[deepmountainsoftware.com](https://deepmountainsoftware.com)**
+- **[samireland.com](https://samireland.com)**: My personal website.
+- **[goodwright.com](https://goodwright.com)**: My company's website.
+- **[deepmountainsoftware.com](https://deepmountainsoftware.com)**: Contracting/consulting services (subject to my availability).
 
 Contact me:
 - **[Twitter](https://twitter/samirelanduk/)**
