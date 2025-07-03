@@ -8,6 +8,7 @@ I like creating software. I write primarily in Python and Javascript. Here are s
 Older stuff:
 
 - **[reddit-save](https://github.com/samirelanduk/reddit-save)**: A tool for backing up your saved reddit content locally.
+- **[kirjava](https://github.com/samirelanduk/kirjava)**: A Python graphQL client library.
 - **[ZincBind](https://zincbind.net)**: A database of zinc binding sites, with web interface and ML tools.
 - **[pdbsearch](https://github.com/samirelanduk/pdbsearch)**: A Python wrapper around the RCSB PDB API.
 - **[molstar-react](https://github.com/samirelanduk/molstar-react)**: A react component for the Molstar 3D macromolecule viewer.
